@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/.idea.TestGit.iml
+/modules.xml
+/projectSettingsUpdater.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\elvis\Bureau\Csharp\TestGit\.idea\.idea.TestGit\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
